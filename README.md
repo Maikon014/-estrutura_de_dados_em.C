@@ -3,7 +3,7 @@
   Implementando um método que receba uma pilha, remova os elementos desta pilha em uma fila.
 </h4>
 <p align="center">
-  <img alt="C" src="/>
+  <img alt="C" src="https://github.com/Maikon014/-estrutura_de_dados_em.C/blob/main/DadosC.png" />
 
 ## :rocket: Technologies
 
