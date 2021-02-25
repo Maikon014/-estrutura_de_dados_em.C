@@ -3,7 +3,7 @@
   Implementando um método que receba uma pilha, remova os elementos desta pilha em uma fila.
 </h4>
 <p align="center">
-  <img alt="GitHub top GIF" src="/>
+  <img alt="C" src="/>
 
 ## :rocket: Technologies
 
